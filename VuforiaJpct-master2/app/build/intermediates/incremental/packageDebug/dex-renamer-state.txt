@@ -1,0 +1,7 @@
+#Wed Sep 27 18:43:48 CEST 2017
+base.0=/Users/ewasniecinska/Desktop/VuforiaJpct-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_054dc5ca3b57f8a2aef81df40c13e86b9b3937dd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ewasniecinska/Desktop/VuforiaJpct-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_744dba6dfc435d9f2f2e07ce05783c32c7329571/classes.dex
+base.1=/Users/ewasniecinska/Desktop/VuforiaJpct-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_744dba6dfc435d9f2f2e07ce05783c32c7329571
+file.0=/Users/ewasniecinska/Desktop/VuforiaJpct-master2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_054dc5ca3b57f8a2aef81df40c13e86b9b3937dd/classes.dex
