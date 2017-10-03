@@ -9,6 +9,7 @@ Vuforia and jPCT-ae integration. There are 3 diffrent renderers for .md2, .3ds a
 <br>
 
 Change renderer in ImageTarget class: 
+<br>
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/gGtHab/Zrzut_ekranu_2017_10_03_o_12_54_21.png" alt="Zrzut_ekranu_2017_10_03_o_12_54_21" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/k0QVvb/Zrzut_ekranu_2017_10_03_o_12_54_38.png" alt="Zrzut_ekranu_2017_10_03_o_12_54_38" border="0"></a><br /><br />
 
